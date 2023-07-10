@@ -1,0 +1,10 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2, C3, C4, C5, C6",CP_EIA-6032-20_AVX-F,6,10uF,
+"J1, J2, J3",connector_128-5.08mm3.81,3,Conn_01x02,
+"Q1, Q2",TO-3,2,MJ11015G,
+"R1, R7",0805,2,22/0,
+"R10, R2, R4, R8",0805,4,5.1k,
+R3,0805,1,470,
+R9,0805,1,620,
+"RL1, RL2",0805,2,10,
+"U1, U2",TO-220-3_Vertical,2,LM317_TO-220,
